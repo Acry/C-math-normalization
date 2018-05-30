@@ -1,4 +1,4 @@
-##C math  
+### C math - normalize values  
 
 This code show how to normalize values.  
 
